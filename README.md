@@ -40,7 +40,7 @@ Futuramente
 </p>
 
 
-# Equipe
+# *Equipe*
 ![WhatsApp Image 2023-09-20 at 20 56 36](https://github.com/LogThink1/logthink_documentacao/assets/144967585/8e36bd93-42ad-466e-b7b0-fdb2958e8dff)
 
 
