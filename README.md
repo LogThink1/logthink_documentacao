@@ -40,7 +40,7 @@ Futuramente
 
 
 # *Equipe*
-![WhatsApp Image 2023-09-20 at 20 56 36](https://github.com/LogThink1/logthink_documentacao/assets/144967585/8e36bd93-42ad-466e-b7b0-fdb2958e8dff)
+![EQUIPE LOGTHINK](https://github.com/LogThink1/logthink_documentacao/assets/144967585/c3acd1b8-da66-48cd-ae0d-e59a49ff97a2)
 
 
 # Objetivo do Projeto
