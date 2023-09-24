@@ -42,20 +42,13 @@ Futuramente
 # *Equipe*
 ![EQUIPE LOGTHINK](https://github.com/LogThink1/logthink_documentacao/assets/144967585/c3acd1b8-da66-48cd-ae0d-e59a49ff97a2)
 
-# Objetivo
-## Missão: somos uma empresa de consultoria especializada logística que busca fornecer dados da mais alta precisão ao cliente parceiro, tornando possível uma visão panorâmica analítica para seus negócios.
-
-## Visão: ser referência nacional e internacional em consultoria logística, através da prestação de serviços ágeis e de excelência.
-
-## Valores: 1. Ética 2. Respeito 3. Transparência 4. Responsabilidade 5. Agilidade 6. Efetividade 7. Inovação e tecnologia
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Missão: somos uma empresa de consultoria especializada logística que busca fornecer dados da mais alta precisão ao cliente parceiro, tornando possível uma visão panorâmica analítica para seus negócios.
+
+Visão: ser referência nacional e internacional em consultoria logística, através da prestação de serviços ágeis e de excelência.
+
+Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agilidade; 6. Efetividade; 7. Inovação e tecnologia
 
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
 
