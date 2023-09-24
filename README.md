@@ -89,7 +89,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-[Estruturar Backlog – Apresentação_20230924_161543_0000.pdf](https://github.com/LogThink1/logthink_documentacao/files/12709530/Estruturar.Backlog.Apresentacao_20230924_161543_0000.pdf)
+![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/e6a74c41-dee7-4b63-b40f-a7772ee80358)
+![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/293a24e9-6802-4f26-94f3-316058dc0378)
+
 
 
 Regras de Negócio
