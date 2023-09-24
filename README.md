@@ -1,4 +1,4 @@
-# logthink_documentacao
+# LOGTHINK Documentação
 
 # Aprendizado por Projeto Integrador (API) - LogThink 
 
