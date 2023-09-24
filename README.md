@@ -64,8 +64,6 @@ Adicionar video e documentos nessa seção
   > Descreva aqui a parte do MVP referente a Sprint
 
  ### Tecnológias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
-Exemplos: 
 - [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
 - [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
 - [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
@@ -91,9 +89,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-</div>
+[Estruturar Backlog – Apresentação_20230924_161543_0000.pdf](https://github.com/LogThink1/logthink_documentacao/files/12709530/Estruturar.Backlog.Apresentacao_20230924_161543_0000.pdf)
+
 
 Regras de Negócio
 - 
