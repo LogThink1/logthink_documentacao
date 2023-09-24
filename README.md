@@ -7,15 +7,12 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 
 * [Projeto]
-* [Micro Certificações]
+* [Sprints]
+* [Autores](#autores)
 * [Equipe]
 * [Objetivo do Projeto]
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
-* [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
+* [Tecnologias utilizadas]
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia Ágil para ensino-aprendizado, focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL); validação externa e mentalidade ágil. 
@@ -30,13 +27,17 @@ Sprint | Previsão | Status| Histórico|
 |03| 27/11/2023 | Pendente |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Feira de Soluções|12/12/2023 | Pendente |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-
-# Micro Certificações
-Futuramente
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
+# Autores
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner |   FERNANDA ANDRADE         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-andrade-a130b1212) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/fer159)              |
+| Scrum Master  | MIRYAN GAUTO |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miryhan-caetano) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
+| Team Member   | CÍCERO BORGES              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
+|  Team Member  | DANIELE DE JESUS SOUZA                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/daniele-de-jesus-souza-35859a209?trk=people-guest_people_search-card) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
+|  Team Member  | GABRIEL ROSA                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
+|  Team Member  | GUSTAVO NOVAKOSKI       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-novakoski-759839252) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)  
+|  Team Member  | MATHEUS REIS       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass) 
+|  Team Member  | VINÍCIUS RODOLFO      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass) 
 
 
 # *Equipe*
@@ -58,17 +59,8 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 - [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
 - [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
 - [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
-  
- ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
-- Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
 
+  
 # Backlog do produto
   
 <div align="center">
@@ -150,15 +142,5 @@ Exemplos:
 
 </details>
 
-# Autores
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   FERNANDA ANDRADE         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-andrade-a130b1212) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/fer159)              |
-| Scrum Master  | MIRYAN GAUTO |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
-| Team Member   | CÍCERO BORGES              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
-|  Team Member  | DANIELE DE JESUS SOUZA                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/daniele-de-jesus-souza-35859a209?trk=people-guest_people_search-card) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
-|  Team Member  | GABRIEL ROSA                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
-|  Team Member  | GUSTAVO NOVAKOSKI       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-novakoski-759839252) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)  
-|  Team Member  | MATHEUS REIS       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass) 
-|  Team Member  | VINÍCIUS RODOLFO      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass) 
+
 
