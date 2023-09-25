@@ -112,7 +112,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 # Competências desenvolvidas
 
-## Hard Skill (saber tecnológico)
+## Hard Skills (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
@@ -127,7 +127,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
  
 </details>
 
-## Soft Skill (saber comportamental)
+## Soft Skills (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
