@@ -65,7 +65,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
   
 <div align="center">
     
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/e6a74c41-dee7-4b63-b40f-a7772ee80358)
+![épicos](https://github.com/LogThink1/logthink_documentacao/assets/144967585/5255c57e-044b-4221-8e4f-aee1e3f62dda)
 ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/293a24e9-6802-4f26-94f3-316058dc0378)
 
 
