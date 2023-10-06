@@ -6,19 +6,21 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 
-* [Projeto]
-* [Sprints]
+* [Projeto](#projeto-(api))
+* [Sprints](#sprints)
 * [Autores](#autores)
-* [Equipe]
-* [Objetivo do Projeto]
+* [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
 * [Backlog do produto](#Backlog-do-produto)
-* [Tecnologias utilizadas]
+* [Tecnologias utilizadas](tecnologias-utilizadas)
+* [Backlog](#backlog-do-produto)
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia Ágil para ensino-aprendizado, focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL); validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
+# Sprints
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 25/09/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
