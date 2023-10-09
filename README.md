@@ -1,6 +1,6 @@
 # LOGTHINK Documentação
 
-# Aprendizado por Projeto Integrador (API) - LogThink 
+# *Aprendizado por Projeto Integrador (API) - LogThink*
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
