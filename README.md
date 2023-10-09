@@ -80,11 +80,11 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 - [x] Calcular quociente valor-peso;
 - [x] Escolha cores e fontes;
 - [x] Criação de identidade visual;
-- [ ] Rascunho Dashboard;
-- [ ] Workshop Jira;
-- [ ] Workshop Git Hub;
-- [ ] 5W2H;
-- [ ] Workshop PowerBI.
+- [x] Rascunho Dashboard;
+- [x] Workshop Jira;
+- [x] Workshop Git Hub;
+- [x] 5W2H;
+- [x] Workshop PowerBI.
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
