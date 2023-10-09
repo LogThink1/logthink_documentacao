@@ -58,7 +58,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 
   ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+
 
  ### Tecnológias Específicas/Apoio
 - [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
@@ -75,15 +75,16 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
+- [x] Análise de planilhas/dados;
+- [x] Cruzar dados;
+- [x] Calcular quociente valor-peso;
 - [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Criação de identidade visual;
+- [ ] Rascunho Dashboard;
+- [ ] Workshop Jira;
+- [ ] Workshop Git Hub;
+- [ ] 5W2H;
+- [ ] Workshop PowerBI.
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
