@@ -82,7 +82,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 - [x] Criação de identidade visual;
 - [x] Rascunho Dashboard;
 - [x] Workshop Jira;
-- [x] Workshop Git Hub;
+- [x] Workshop GitHub;
 - [x] Workshop PowerBI;
 - [x] 5W2H.
 
