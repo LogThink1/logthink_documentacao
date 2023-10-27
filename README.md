@@ -66,7 +66,8 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 - [Pacote Office](https://www.microsoft.com/)
 - [Teams](https://teams.microsoft.com/)
 - [Canva](https://www.canva.com/pt_br/)
-
+- [GitHub](https://github.com/)
+- [Jira](https://id.atlassian.com/)
   
 # Backlog do produto
   
