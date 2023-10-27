@@ -61,9 +61,11 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 
  ### Tecnológias Específicas/Apoio
-- [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
-- [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
-- [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
+- [ChatGPT](https://chat.openai.com/auth/login)
+- [Power BI](https://app.powerbi.com/)
+- [Pacote Office](https://www.microsoft.com/)
+- [Teams](https://teams.microsoft.com/)
+- [Canva](https://www.canva.com/pt_br/)
 
   
 # Backlog do produto
