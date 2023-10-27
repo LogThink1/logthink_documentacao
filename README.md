@@ -61,7 +61,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
   ### Produto 
 
 
- ### Tecnologias Específicas/Apoio
+ ### Tecnologias Específicas de Apoio
 - [ChatGPT](https://chat.openai.com/auth/login)
 - [Power BI](https://app.powerbi.com/)
 - [Pacote Office](https://www.microsoft.com/)
