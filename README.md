@@ -58,8 +58,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 # *5W2H*
 |------|--------|
-|5W2H | [5W2H.xlsx](https://github.com/LogThink1/logthink_documentacao/files/13193717/5W2H.xlsx)
- |
+|5W2H | [5W2H.xlsx](https://github.com/LogThink1/logthink_documentacao/files/13193717/5W2H.xlsx)|
 
 # *Tecnologias Utilizadas*
 ![workshop git](https://github.com/LogThink1/logthink_documentacao/assets/144967585/76fdeda9-acca-4146-b791-228a66eb1d1a)
