@@ -14,7 +14,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Backlog](#backlog-do-produto)
-* [TEA](#Tecnologias-específicas-de-apoio)
+* [TEA](#Tecnologias-específicas/apoio)
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia Ágil para ensino-aprendizado, focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL); validação externa e mentalidade ágil. 
@@ -61,7 +61,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
   ### Produto 
 
 
- ### Tecnológias Específicas/Apoio
+ ### Tecnologias Específicas/Apoio
 - [ChatGPT](https://chat.openai.com/auth/login)
 - [Power BI](https://app.powerbi.com/)
 - [Pacote Office](https://www.microsoft.com/)
