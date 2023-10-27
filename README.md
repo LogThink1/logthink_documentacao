@@ -10,6 +10,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Sprints](#sprints)
 * [Autores](#autores)
 * [Equipe](#equipe)
+* [5W2H](#5W2H)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Backlog do produto](#Backlog-do-produto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -54,6 +55,11 @@ Missão: somos uma empresa de consultoria especializada logística que busca for
 Visão: ser referência nacional e internacional em consultoria logística, através da prestação de serviços ágeis e de excelência.
 
 Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agilidade; 6. Efetividade; 7. Inovação e tecnologia
+
+# *5W2H*
+|------|--------|
+|5W2H | [5W2H.xlsx](https://github.com/LogThink1/logthink_documentacao/files/13193717/5W2H.xlsx)
+ |
 
 # *Tecnologias Utilizadas*
 ![workshop git](https://github.com/LogThink1/logthink_documentacao/assets/144967585/76fdeda9-acca-4146-b791-228a66eb1d1a)
