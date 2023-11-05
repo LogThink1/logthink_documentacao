@@ -98,6 +98,21 @@ Sprint 2
 - [x] Workshop GitHub;
 - [x] Workshop PowerBI;
 - [x] 5W2H.
+      
+## Sprint 2. Concepção
+- [x] Relatório - Formatação;
+- [x] 5W2H;
+- [x] Atualizar Documentação - Sprint 1;
+- [x] Atualizar Documentação - Sprint 2;
+- [x] Organizar próxima apreentação;
+- [x] Dar forma ao produto;
+- [x] Explicar ao cliente a questão de cargas com peso zero;
+- [x] Adaptar filtros à necessidade do cliente;
+- [x] Avaliar indicadores das melhores áreas;
+- [x] Atualizar design do dashboard;
+- [x] Pesquisar sobre as potenciais cargas do porto;
+- [x] Elaborar próximo E-mail.
+
 
 
 # Competências desenvolvidas
