@@ -13,6 +13,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [5W2H](#5W2H)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Backlog do produto](#Backlog-do-produto)
+* [Dashboard](#Dashboard)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Backlog](#backlog-do-produto)
 * [TEA](#tecnologias-específicas-de-apoio)
@@ -85,6 +86,11 @@ Sprint 2
     
 ![épicos](https://github.com/LogThink1/logthink_documentacao/assets/144967585/5255c57e-044b-4221-8e4f-aee1e3f62dda)
 ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/293a24e9-6802-4f26-94f3-316058dc0378)
+
+# *Dashboard*
+
+https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a4-422c-a211-9b997bf370d9
+
 
 
 ## Sprint 1. Concepção
