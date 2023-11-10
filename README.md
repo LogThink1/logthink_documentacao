@@ -18,6 +18,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog](#backlog-do-produto)
 * [TEA](#tecnologias-específicas-de-apoio)
 * [Sprints](#Sprint-1-Concepção)
+* [Gráfico de Burndown](#Burndown)
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia Ágil para ensino-aprendizado, focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL); validação externa e mentalidade ágil. 
@@ -69,7 +70,13 @@ Sprint 2
 ![workshop git](https://github.com/LogThink1/logthink_documentacao/assets/144967585/76fdeda9-acca-4146-b791-228a66eb1d1a)
 
 
-  ### Produto 
+ # Burndown
+ Sprint 01
+![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f24de487-a2f6-42e8-9ee6-b904db3492aa)
+
+ Sprint 02
+ ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/10c5b03e-3f82-4d6a-b7b8-e97c232ea4df)
+
 
 
  ### Tecnologias Específicas de Apoio
