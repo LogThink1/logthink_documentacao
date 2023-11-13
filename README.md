@@ -59,7 +59,7 @@ Visão: ser referência nacional e internacional em consultoria logística, atra
 Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agilidade; 6. Efetividade; 7. Inovação e tecnologia
 
 # *Análise SWOT da Empresa*
-![image](![MicrosoftTeams-image (1)])
+![Uploading MicrosoftTeams-image (1).png…]()
 
 
 # *5W2H*
