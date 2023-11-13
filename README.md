@@ -20,6 +20,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Sprints](#Sprint-1-Concepção)
 * [Gráfico de Burndown](#Burndown)
 * [SWOT](#Análise-SWOT-da-Empresa)
+* [Departamentalização](#Departamentalização)
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia Ágil para ensino-aprendizado, focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL); validação externa e mentalidade ágil. 
@@ -81,6 +82,9 @@ Sprint 2
 
 # Sprint 02
  ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/10c5b03e-3f82-4d6a-b7b8-e97c232ea4df)
+
+# *Departamentalização*
+[Departamentalização.pdf](https://github.com/LogThink1/logthink_documentacao/files/13342988/Departamentalizacao.pdf)
 
 
 
