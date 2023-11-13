@@ -19,6 +19,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [TEA](#tecnologias-específicas-de-apoio)
 * [Sprints](#Sprint-1-Concepção)
 * [Gráfico de Burndown](#Burndown)
+* [SWOT](#Análise-SWOT-da-Empresa)
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia Ágil para ensino-aprendizado, focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL); validação externa e mentalidade ágil. 
@@ -59,7 +60,7 @@ Visão: ser referência nacional e internacional em consultoria logística, atra
 Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agilidade; 6. Efetividade; 7. Inovação e tecnologia
 
 # *Análise SWOT da Empresa*
-![Uploading MicrosoftTeams-image (1).png…]()
+![MicrosoftTeams-image (1)](https://github.com/LogThink1/logthink_documentacao/assets/144967585/50e54821-be43-4437-ab7c-cc0cf658add6)
 
 
 # *5W2H*
