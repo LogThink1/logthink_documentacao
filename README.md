@@ -33,7 +33,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 25/09/2023 | Concluído| [Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13171948/RELATORIO.SPRINT.0.pdf)| 
 |01 | 16/10/2023 | Concluído| [Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13171960/RELATORIO.SPRINT.01.pdf) | 
 |02|  06/11/2023| Concluído |[Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13171972/Relatorio_Sprint_02_pdf.pdf)| 
-|03| 27/11/2023 | Em Progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 27/11/2023 | Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Feira de Soluções|12/12/2023 | Pendente |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Autores
@@ -139,6 +139,15 @@ https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a
 - [x] Pesquisar sobre as potenciais cargas do porto;
 - [x] Elaborar próximo E-mail.
 
+## Sprint 3. Concepção
+- [x] Colocar valor-peso em R$/Kg;
+- [x] Diminuir a seleção de cidades;
+- [x] Análise de SWOT;
+- [x] Departamentalização;
+- [x] Histórico de movimentação de cargas;
+- [x] 5W2H - Sprint 3
+- [x] Relatório - Sprint 3;
+- [x] Criar estimativas.
 
 
 # Competências desenvolvidas
