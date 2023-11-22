@@ -83,6 +83,10 @@ Sprint 2
 # Sprint 02
  ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/10c5b03e-3f82-4d6a-b7b8-e97c232ea4df)
 
+# Sprint 03
+![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/7f8866bb-8a1e-4506-b2d6-0f57dbcad25c)
+
+
 # *Departamentalização*
 ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f1062fc8-4c1d-4de7-97e2-2d6d91c854e8)
 
