@@ -115,6 +115,9 @@ Sprint 3
 
 https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a4-422c-a211-9b997bf370d9
 
+# *Dashboard - Retirados*
+![Dash](https://github.com/LogThink1/logthink_documentacao/assets/144967585/46af19d0-1639-4a78-9816-d72ad1ca6b57)
+
 
 
 ## Sprint 1. Concepção
