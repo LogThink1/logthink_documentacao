@@ -73,7 +73,7 @@ Sprint 2
 [5W2H.xlsx](https://github.com/LogThink1/logthink_documentacao/files/13232863/5W2H.xlsx)
 
 Sprint 3
-[5W2H.xlsx](https://github.com/LogThink1/logthink_documentacao/files/13462319/5W2H.xlsx)
+
 
 
 
