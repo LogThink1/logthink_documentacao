@@ -156,7 +156,8 @@ https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a
 - [x] Histórico de movimentação de cargas;
 - [x] 5W2H - Sprint 3
 - [x] Relatório - Sprint 3;
-- [x] Criar estimativas.
+- [x] Criar estimativas;
+- [x] Retirada das cargas de peso 0.
 
 
 # Competências desenvolvidas
